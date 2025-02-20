@@ -23,4 +23,12 @@
     <img src="https://github.com/SeungMin2001/SeungMin2001/blob/main/image/Animation%20-%201738929258402.gif">
   </span>
   <br><br><br>
-   <b>"If my code compiles on the first try, I buy a lottery ticket😂."</b>
+   <b>"If my code compiles on the first try, I buy a lottery ticket😂."</b><br><br><br>
+  <div align="center">
+      <a href="https://solved.ac/dolkuji2/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dolkuji2">
+      </a>
+    </div>
+  
+  </p>
+
