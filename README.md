@@ -29,6 +29,5 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dolkuji2">
       </a>
     </div>
-  
-  </p>
+  </p><br><br>
 
