@@ -1,1 +1,1 @@
-<b>Mind the gap… and the bugs
+<b>Mind the gap… and the FOMO
