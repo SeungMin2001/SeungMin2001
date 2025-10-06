@@ -23,6 +23,10 @@
   <span style="display: inline-block; margin-right: 10px;">
     <img src="image/free-icon-js-5968292.png" width="50/>
   </span>
+
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="image/FastAPI.png" width="50/>
+  </span>
   
   <span style="display: inline-block; margin-right: 10px;">
     <img src="https://github.com/SeungMin2001/SeungMin2001/blob/main/image/Animation%20-%201738929258402.gif">
