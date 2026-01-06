@@ -1,5 +1,5 @@
-<p align='left'><b>Mind the gap… and the FOMO</b></p>
+<p align='center'><b>Mind the gap… and the FOMO</b></p>
 
-<p align="left">
+<p align="center">
   <img src="image/20240721_202743.jpg" alt="Logo" width="400" hight="30">
 </p>
