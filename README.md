@@ -6,5 +6,5 @@
 </div> -->
 
 <p align="center">
-  <img src="./image/ㄴㄴㄴ.jpg" width="400"/>
+  <img src="./image/ㄴㄴㄴ.jpg" width="250"/>
 </p>
